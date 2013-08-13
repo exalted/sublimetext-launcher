@@ -1,6 +1,9 @@
 README
 ======
 
+ * I couldn't make famous [subl-handler](https://github.com/asuth/subl-handler) work, so I wrote my own.
+ * I don't know/care if this works for everything, but then all I care was to make [better_errors](https://github.com/charliesome/better_errors) work; so there it goes! :wink:
+
 How-to Install
 --------------
 
